@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=50&color=F79A7A&center=true&vCenter=true&width=1000&lines=Hello+everyone!;Welcome+to+my+Github!;Nice+to+meet+you!)](https://git.io/typing-svg)
 ### About Me <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50">
-I'm a professional full-time fullstack developer with more than 3 years of experience👩‍💻    
+I'm a professional full-time fullstack developer with more than 5 years of experience👩‍💻    
 I use only modern technologies to provide the best web-solutions💻  
 I have excellent interpersonal and organizational skills, and I'm a good team player👨‍👩‍👧‍👦  
 Moreover I complete tasks on-time and don't afraid to take responsibility for mentoring👩‍🏫
